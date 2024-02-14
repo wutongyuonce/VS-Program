@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\VS\\Program\\VSThemeProject1\\VSThemeProject1.csproj": {}
+    "C:\\temp\\Github Local\\VS Program\\VSThemeProject1\\VSThemeProject1.csproj": {}
   },
   "projects": {
-    "C:\\temp\\VS\\Program\\VSThemeProject1\\VSThemeProject1.csproj": {
+    "C:\\temp\\Github Local\\VS Program\\VSThemeProject1\\VSThemeProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\VS\\Program\\VSThemeProject1\\VSThemeProject1.csproj",
+        "projectUniqueName": "C:\\temp\\Github Local\\VS Program\\VSThemeProject1\\VSThemeProject1.csproj",
         "projectName": "VSThemeProject1",
-        "projectPath": "C:\\temp\\VS\\Program\\VSThemeProject1\\VSThemeProject1.csproj",
+        "projectPath": "C:\\temp\\Github Local\\VS Program\\VSThemeProject1\\VSThemeProject1.csproj",
         "packagesPath": "C:\\Users\\33049\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\VS\\Program\\VSThemeProject1\\obj\\",
+        "outputPath": "C:\\temp\\Github Local\\VS Program\\VSThemeProject1\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
