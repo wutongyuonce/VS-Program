@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -17,6 +17,15 @@
       <Configuration>Release</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AVLTest.cpp" />
+    <ClCompile Include="BSTTest.cpp" />
+    <ClCompile Include="DataStructureTest\LinearStructureTest\SequentialQueueTest.cpp" />
+    <ClCompile Include="DataStructureTest\LinearStructureTest\SequentialStackTset.cpp" />
+    <ClCompile Include="DataStructureTest\TreeStructureTest\TraversalofBTTest.cpp" />
+    <ClCompile Include="RBTTest.cpp" />
+    <ClCompile Include="ThreadedBTTest.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -126,18 +135,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="ArrayListTest.cpp" />
-    <ClCompile Include="ArrayQueueTest.cpp" />
-    <ClCompile Include="ArrayStackTset.cpp" />
-    <ClCompile Include="BinaryTreeTest.cpp" />
-    <ClCompile Include="DataStructureTest.cpp" />
-    <ClCompile Include="DoublyLinkedListTest.cpp" />
-    <ClCompile Include="LinkedQueueTset.cpp" />
-    <ClCompile Include="LinkedStackTest.cpp" />
-    <ClCompile Include="ShareStackTest.cpp" />
-    <ClCompile Include="SinglyLinkedListTest.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

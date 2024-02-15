@@ -15,34 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DataStructureTest.cpp">
+    <ClCompile Include="DataStructureTest\LinearStructureTest\SequentialQueueTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayListTest.cpp">
+    <ClCompile Include="DataStructureTest\LinearStructureTest\SequentialStackTset.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayQueueTest.cpp">
+    <ClCompile Include="DataStructureTest\TreeStructureTest\TraversalofBTTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayStackTset.cpp">
+    <ClCompile Include="ThreadedBTTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="DoublyLinkedListTest.cpp">
+    <ClCompile Include="BSTTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="LinkedQueueTset.cpp">
+    <ClCompile Include="AVLTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="LinkedStackTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ShareStackTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="SinglyLinkedListTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="BinaryTreeTest.cpp">
+    <ClCompile Include="RBTTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

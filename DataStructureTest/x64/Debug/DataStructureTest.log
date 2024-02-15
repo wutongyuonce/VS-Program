@@ -1,12 +1,2 @@
-﻿  ArrayListTest.cpp
-  ArrayQueueTest.cpp
-  ArrayStackTset.cpp
-  BinaryTreeTest.cpp
-  DataStructureTest.cpp
-  DoublyLinkedListTest.cpp
-  LinkedQueueTset.cpp
-  LinkedStackTest.cpp
-  ShareStackTest.cpp
-  SinglyLinkedListTest.cpp
-  正在生成代码...
+﻿  ThreadedBTTest.cpp
   DataStructureTest.vcxproj -> C:\temp\Github Local\VS Program\DataStructureTest\x64\Debug\DataStructureTest.exe
