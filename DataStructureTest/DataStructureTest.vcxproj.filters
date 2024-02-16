@@ -15,25 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DataStructureTest\LinearStructureTest\SequentialQueueTest.cpp">
+    <ClCompile Include="DataStructureTest\TreeStructureTest\AVLTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="DataStructureTest\LinearStructureTest\SequentialStackTset.cpp">
+    <ClCompile Include="DataStructureTest\TreeStructureTest\BSTTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="DataStructureTest\TreeStructureTest\TraversalofBTTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ThreadedBTTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="BSTTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="AVLTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="RBTTest.cpp">
+    <ClCompile Include="DataStructureTest\TreeStructureTest\RBTTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -19,13 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AVLTest.cpp" />
-    <ClCompile Include="BSTTest.cpp" />
-    <ClCompile Include="DataStructureTest\LinearStructureTest\SequentialQueueTest.cpp" />
-    <ClCompile Include="DataStructureTest\LinearStructureTest\SequentialStackTset.cpp" />
-    <ClCompile Include="DataStructureTest\TreeStructureTest\TraversalofBTTest.cpp" />
-    <ClCompile Include="RBTTest.cpp" />
-    <ClCompile Include="ThreadedBTTest.cpp" />
+    <ClCompile Include="DataStructureTest\TreeStructureTest\AVLTest.cpp" />
+    <ClCompile Include="DataStructureTest\TreeStructureTest\BSTTest.cpp" />
+    <ClCompile Include="DataStructureTest\TreeStructureTest\RBTTest.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
