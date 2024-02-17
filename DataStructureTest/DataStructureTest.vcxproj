@@ -18,11 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="DataStructureTest\TreeStructureTest\AVLTest.cpp" />
-    <ClCompile Include="DataStructureTest\TreeStructureTest\BSTTest.cpp" />
-    <ClCompile Include="DataStructureTest\TreeStructureTest\RBTTest.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -93,7 +94,7 @@ void inOrder(Node root) {
 
 int main() {
     Node root=createNode(3);
-    root=insert(root, 5);
+    root=insert(root, 5);   //因为insert函数里面用了newRoot，所以需要在前面加root=来承接
     root=insert(root, 6);
     inOrder(root);
     printf("\n");
@@ -101,3 +102,4 @@ int main() {
     root=insert(root, 25);
     inOrder(root);
 }
+*/
