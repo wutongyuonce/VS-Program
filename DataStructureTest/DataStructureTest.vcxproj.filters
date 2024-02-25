@@ -27,5 +27,8 @@
     <ClCompile Include="BFSTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MinimumSpanningTreeTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

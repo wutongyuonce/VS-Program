@@ -23,6 +23,7 @@
     <ClCompile Include="BFSTest.cpp" />
     <ClCompile Include="MatrixGraphTest.cpp" />
     <ClCompile Include="DFSTest.cpp" />
+    <ClCompile Include="MinimumSpanningTreeTest.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

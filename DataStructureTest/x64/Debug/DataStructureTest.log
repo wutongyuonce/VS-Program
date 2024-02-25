@@ -1,2 +1,4 @@
-﻿  BFSTest.cpp
+﻿  MinimumSpanningTreeTest.cpp
+C:\temp\Github Local\VS Program\DataStructureTest\MinimumSpanningTreeTest.cpp(53,2): warning C4091: “typedef ”: 没有声明变量时忽略“closedge”的左侧
+C:\temp\Github Local\VS Program\DataStructureTest\MinimumSpanningTreeTest.cpp(60,2): warning C4091: “typedef ”: 没有声明变量时忽略“Edge”的左侧
   DataStructureTest.vcxproj -> C:\temp\Github Local\VS Program\DataStructureTest\x64\Debug\DataStructureTest.exe
