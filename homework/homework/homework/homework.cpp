@@ -1,19 +1,26 @@
 ﻿#include <stdio.h>
-#include <math.h>
 
 int main() {
-    int g;
-    char s;
-    printf("请输入一个整数表示的百分制成绩：");
-    scanf_s("%d", &g);
-    switch (g/10) {
-        case 10:
-        case 9:s = 'A';break;
-        case 8:s = 'B';break;
-        case 7:
-        case 6:s = 'C';break;
-        default:s = 'E';break;
-    }
-    printf("转换后的五分制成绩为：%c\n",s);
-    return 0;
+	int count = 0; // 计数器，用于每行输出5个闰年
+
+	// 遍历1900到2018年之间的所有年份
+	for (int year = 1900; year <= 2018; year++) {
+		// 判断是否是闰年
+		if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+			printf("%d ", year); // 输出闰年
+			count++; // 计数器增加
+
+			// 如果输出了5个闰年，换行
+			if (count % 5 == 0) {
+				printf("\n");
+			}
+		}
+	}
+
+	// 如果最后一行没有满5个闰年，打印换行
+	if (count % 5 != 0) {
+		printf("\n");
+	}
+
+	return 0;
 }
