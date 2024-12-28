@@ -1,0 +1,8 @@
+﻿  func.c
+C:\Users\33049\Desktop\Github Local\VS Program\Train_System\func.c(41,4): warning C4098: “QueryTrainNum”:“void”函数返回值
+C:\Users\33049\Desktop\Github Local\VS Program\Train_System\func.c(58,4): warning C4098: “QueryTrainRcity”:“void”函数返回值
+C:\Users\33049\Desktop\Github Local\VS Program\Train_System\func.c(208,10): warning C4477: “scanf_s”: 格式字符串“%9s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+      C:\Users\33049\Desktop\Github Local\VS Program\Train_System\func.c(208,10):
+      此参数用作缓冲区大小
+  
+  Train_System.vcxproj -> C:\Users\33049\Desktop\Github Local\VS Program\Train_System\x64\Debug\Train_System.exe

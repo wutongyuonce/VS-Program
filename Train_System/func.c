@@ -10,7 +10,7 @@ void ReadfromFile(DATA data[])
 {
 	FILE* fp;
 	int i=0;
-	if ((fopen_s(&fp, "C:\\temp\\VS\\Program\\Train_System\\DATA.txt", "r")) != 0)
+	if ((fopen_s(&fp, "DATA.txt", "r")) != 0)
 	{
 		printf("Failure to open DATA.txt!\n");
 		exit(0);
