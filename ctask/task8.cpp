@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() {
+//int main() {
     FILE* file;
     int i;
     double sqrt_value;

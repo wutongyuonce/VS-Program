@@ -23,7 +23,7 @@ void printArray(int* p, int m) {
     printf("\n");
 }
 
-int main() {
+//int main() {
     int m;
 
     // 获取用户输入的数组长度

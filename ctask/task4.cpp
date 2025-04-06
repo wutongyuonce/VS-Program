@@ -2,7 +2,7 @@
 //提示 : 可定义一整型指针p，初始化为a。表示某元素时不使用a[i], 而使用“p”, 此时在循环的过程中p要自增1，如不想改变p的值，也可使用“(p + i)”或“p[i]”, i为元素的下标。
 #include <stdio.h>
 
-int main() {
+//int main() {
     int a[10];  // 定义大小为10的整型数组a
     int* p = a;  // 定义指针p，指向数组a的第一个元素
     int positive_count = 0, negative_count = 0, sum = 0;  // 正数个数，负数个数和所有元素之和

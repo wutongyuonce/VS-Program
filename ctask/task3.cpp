@@ -17,7 +17,7 @@ int count_substring_occurrences(const char* str, const char* sub) {
     return count;
 }
 
-int main() {
+//int main() {
     char str[100], sub[100];
 
     // 输入主字符串和子字符串

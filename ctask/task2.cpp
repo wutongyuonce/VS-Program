@@ -25,7 +25,7 @@ int isValidIdentifier(char str[]) {
     return 1;
 }
 
-int main() {
+//int main() {
     char str[100];  // 存储输入的字符串
 
     // 输入一个字符串

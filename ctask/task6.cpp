@@ -14,7 +14,7 @@ typedef struct {
 // 函数声明：排序函数
 void sort(student st[], int n);
 
-int main() {
+//int main() {
     student st[3];  // 定义3个学生
     int i;
 

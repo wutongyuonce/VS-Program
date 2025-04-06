@@ -19,7 +19,7 @@ void bubbleSort(char str[], int length) {
     }
 }
 
-int main() {
+//int main() {
     char s1[60], s2[20], s3[80];  // s1的长度要比s2大，以便容纳连接后的字符串
 
     // 输入两个字符串

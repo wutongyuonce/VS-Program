@@ -18,7 +18,7 @@ complex add(complex x, complex y) {
     return result;
 }
 
-int main() {
+//int main() {
     complex xx, yy;
 
     // 从终端输入复数 xx 和 yy 的实部和虚部
